@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Write-Host \"=== File checks ===\"; foreach \\($f in @\\(\"CLAUDE.md\",\"AGENTS.md\",\"CONTEXT.md\",\"CONTEXT-MAP.md\",\"docs\",\"docs/adr\",\".scratch\",\"docs/agents\"\\)\\) { Write-Host \"$f : $\\(Test-Path $f\\)\" })",
+      "PowerShell(git init *)",
+      "PowerShell(git *)"
+    ]
+  }
+}

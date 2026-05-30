@@ -1,0 +1,34 @@
+{
+  "name": "普通怪",
+  "action": "attack",
+  "total_frames": 4,
+  "fps": 30.0,
+  "canvas_size": 256,
+  "source_video": "微信视频2026-05-30_161141_538.mp4",
+  "files": [
+    {
+      "frame": 1,
+      "file": "普通怪_attack_001.png",
+      "source_frame": 6,
+      "asset_id": 135161686649135
+    },
+    {
+      "frame": 2,
+      "file": "普通怪_attack_002.png",
+      "source_frame": 11,
+      "asset_id": 95653476370830
+    },
+    {
+      "frame": 3,
+      "file": "普通怪_attack_003.png",
+      "source_frame": 15,
+      "asset_id": 96887681822637
+    },
+    {
+      "frame": 4,
+      "file": "普通怪_attack_004.png",
+      "source_frame": 20,
+      "asset_id": 72709620086618
+    }
+  ]
+}

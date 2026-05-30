@@ -1,0 +1,46 @@
+{
+  "name": "普通怪",
+  "action": "walk",
+  "total_frames": 6,
+  "fps": 30.0,
+  "canvas_size": 256,
+  "source_video": "微信视频2026-05-30_160743_017.mp4",
+  "files": [
+    {
+      "frame": 1,
+      "file": "普通怪_walk_001.png",
+      "source_frame": 2,
+      "asset_id": 89908018393079
+    },
+    {
+      "frame": 2,
+      "file": "普通怪_walk_002.png",
+      "source_frame": 6,
+      "asset_id": 116393532478311
+    },
+    {
+      "frame": 3,
+      "file": "普通怪_walk_003.png",
+      "source_frame": 11,
+      "asset_id": 133992899343016
+    },
+    {
+      "frame": 4,
+      "file": "普通怪_walk_004.png",
+      "source_frame": 15,
+      "asset_id": 117675262615018
+    },
+    {
+      "frame": 5,
+      "file": "普通怪_walk_005.png",
+      "source_frame": 20,
+      "asset_id": 119227544345844
+    },
+    {
+      "frame": 6,
+      "file": "普通怪_walk_006.png",
+      "source_frame": 25,
+      "asset_id": 108032655284044
+    }
+  ]
+}
